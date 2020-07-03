@@ -1,4 +1,4 @@
-module github.com/tjfoc/sarama
+module github.com/gordon-h/sarama
 
 go 1.14
 
